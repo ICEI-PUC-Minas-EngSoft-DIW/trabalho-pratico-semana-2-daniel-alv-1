@@ -6,4 +6,5 @@
 
 ## Print da tela da página criada (Curriculum Vitae)
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+
+<img width="1873" height="1041" alt="Screenshot_3" src="https://github.com/user-attachments/assets/41eaddbd-222a-4abf-bd7b-a425093de5cb" />
